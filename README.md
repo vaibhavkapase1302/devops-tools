@@ -2,7 +2,7 @@
 
 A comprehensive collection of essential DevOps tools for development, deployment, monitoring, and more.
 
-✍️ Feel free to enhance the list of devops tools by submitting pull requests! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
+✍️ Feel free to enhance the list of DevOps tools by submitting pull requests! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
 
 ## Hit the Star! :star:
 
